@@ -1,0 +1,6 @@
+@echo off
+echo 启动第一个窗口并运行GPT-SoVITS-Inference的Python脚本...
+start cmd /k "cd GPT-SoVITS-Inference & runtime\python.exe pure_api.py & echo 第一个脚本执行完毕 & pause"
+
+echo 启动第二个窗口并激活虚拟环境，运行ui.py...
+start cmd /k "call bot/Scripts/activate & python ui.py & echo UI脚本执行完毕 & pause"
