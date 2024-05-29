@@ -10,7 +10,8 @@
 
 ### 快速启动
 如果您不希望手动配置环境，可以使用预打包的`bot.7z`文件：
-- 下载并解压`bot.7z`到您的目录。
+- 下载并解压`bot.7z`到您的项目根目录。
+- 下载链接链接：https://pan.baidu.com/s/1aquvFNVfis_Om1AKXmJllw?pwd=cqdw 提取码：cqdw 
 - 双击`start.bat`文件（Windows系统）。
 
 ### 手动配置
@@ -30,4 +31,3 @@
 
 ## 许可证
 本项目采用MIT许可证发布。
-```
