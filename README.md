@@ -17,6 +17,7 @@
 1. 克隆本项目和相关的GPT-SoVITS-Inference项目：
    ```bash
    git clone https://github.com/ArptPlank/fufu-desktop-pet.git
+   cd fufu-desktop-pet
    git clone https://github.com/X-T-E-R/GPT-SoVITS-Inference.git
    ```
 2. 在`GPT-SoVITS-Inference`目录中执行`0一键启动脚本`，选择并运行`5纯后端运行脚本`。
